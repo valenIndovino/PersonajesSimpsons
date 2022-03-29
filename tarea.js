@@ -203,7 +203,6 @@ const personajes = [
     }, 
 ]
 
-
     const cargarPersonajes = () =>{
 
         personajes.forEach(personaje => {
