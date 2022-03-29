@@ -1,0 +1,15 @@
+body{
+    background-color: yellow;
+}
+
+input{
+    width: 200px;
+}
+
+label{
+    font-weight: bold;
+}
+
+form{
+    text-align: center;
+}
